@@ -1,0 +1,9 @@
+<meta>
+  <script src="JdxUI.lua" type="client" cache="false"/>
+  <script src="JdxFunctions.lua" type="client" cache="false"/>
+  <script src="JdxWindowFunctions.lua" type="client" cache="false"/>
+  <script src="JdxBinds.lua" type="client" cache="false"/>
+  <script src="JdxConst.lua" type="client" cache="false"/>
+  <script src="JdxDraw.lua" type="client" cache="false"/>
+  <file src="fontt.ttf" type="client" cache="false"/>
+</meta>
